@@ -128,6 +128,34 @@
   "outbounds": [
     {
       "local_address": [
+        "10.102.111.26/32"
+      ],
+      "mtu": 1408,
+      "peer_public_key": "aaOh0sHpcbANMTQAEFBCYaBiQVnw0gWR5F6MbpttADo=",
+      "pre_shared_key": "LQvD2zHlN5+fYvMOmnQw7mP4bI3kRLarNcvgl9r58Tc=",
+      "private_key": "6CchqqcYW15smg5I7bxTi9oP7S4Y6rmIZspIbAhfAns=",
+      "server": "37.120.156.234",
+      "server_port": 258,
+      "type": "wireguard",
+      "domain_strategy": "",
+      "tag": "🇵🇱 M247"
+    },
+    {
+      "local_address": [
+        "10.103.159.85/32"
+      ],
+      "mtu": 1408,
+      "peer_public_key": "t5HVbvg0wsX72RoEg95CBTL2uzUOSWrxDQLPYI0taVI=",
+      "pre_shared_key": "kBebpE/7fIjYmylNmDpa+I/uGylE97rI0gLNUR61ZA4=",
+      "private_key": "6BCmiXtC7rvG1bdU228e6H3TzANsDYCQ+3uGlTKfZ2M=",
+      "server": "37.120.143.178",
+      "server_port": 252,
+      "type": "wireguard",
+      "domain_strategy": "",
+      "tag": "🇧🇪 M247"
+    },
+    {
+      "local_address": [
         "10.14.0.2/16"
       ],
       "mtu": 1408,
@@ -185,6 +213,15 @@
       "type": "shadowsocks",
       "domain_strategy": "",
       "tag": "🇩🇪 OVH"
+    },
+    {
+      "method": "aes-128-cfb",
+      "password": "shadowsocks",
+      "server": "156.146.62.160",
+      "server_port": 443,
+      "type": "shadowsocks",
+      "domain_strategy": "",
+      "tag": "🇨🇭 Datacamp"
     },
     {
       "tag": "direct",
