@@ -215,6 +215,20 @@
       "tag": "🇩🇪 OVH"
     },
     {
+      "local_address": [
+        "10.103.115.222/32"
+      ],
+      "mtu": 1408,
+      "peer_public_key": "LdUcd5qvbl+syccmxTQjWVAdFnkr+skuoUHA8XUtQEI=",
+      "pre_shared_key": "9XpmIBFXjH4ZA3Z7AI93tvV/nZF7Xy8mA3Ws5p47B90=",
+      "private_key": "EOuwfDBQgrHDnTD2mVcJOxbtl0rsRcGD0hTBJpPIrW4=",
+      "server": "164.92.141.119",
+      "server_port": 15266,
+      "type": "wireguard",
+      "domain_strategy": "",
+      "tag": "🇩🇪 Digital Ocean"
+    },
+    {
       "method": "aes-128-cfb",
       "password": "shadowsocks",
       "server": "156.146.62.160",
@@ -222,6 +236,20 @@
       "type": "shadowsocks",
       "domain_strategy": "",
       "tag": "🇨🇭 Datacamp"
+    },
+    {
+      "local_address": [
+        "10.102.176.143/32"
+      ],
+      "mtu": 1408,
+      "peer_public_key": "JQnMmshybIMJ4sMEhq1jqzeec+kKvnbV8gbUvzFv3WU=",
+      "pre_shared_key": "4QYzbvi3QDybacx2WPNEasIQioABPBboCWBfYxxN6eE=",
+      "private_key": "aABWzN4VFfUXu1d8yZO6+vCGA5J1Md78WV7tcf+MpG4=",
+      "server": "95.179.143.2",
+      "server_port": 15253,
+      "type": "wireguard",
+      "domain_strategy": "",
+      "tag": "🇳🇱 Netherlands"
     },
     {
       "tag": "direct",
