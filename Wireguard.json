@@ -252,6 +252,76 @@
       "tag": "🇳🇱 Netherlands"
     },
     {
+      "local_address": [
+        "10.102.138.231/32"
+      ],
+      "mtu": 1408,
+      "peer_public_key": "qrxp8joHvlADjT5TlTt/Df9g3djAiFmY8do+HUXQ2hI=",
+      "pre_shared_key": "NnfWlct53KgdoViEv4bybwnapUgdy430O7AV7CV3rJI=",
+      "private_key": "cPT7L1Ynf1bd+jmpH5y4FpBq7+tYrUQWvNn5tojsa0s=",
+      "server": "89.45.7.90",
+      "server_port": 254,
+      "type": "wireguard",
+      "domain_strategy": "",
+      "tag": "🇩🇰 M247"
+    },
+    {
+      "local_address": [
+        "10.102.189.183/32"
+      ],
+      "mtu": 1408,
+      "peer_public_key": "pd2axUE2biQSmJI7hAht29KvWjhknGinQYqVooGA91g=",
+      "pre_shared_key": "bxa97ThHyWxVWGHBoF3EbiURLWIm4B9IJKNBguRIPx0=",
+      "private_key": "aIdQJehh4GyOPYXtcDYnIpzZZqs0+dzmTMYHwCnSHnE=",
+      "server": "195.231.39.137",
+      "server_port": 15260,
+      "type": "wireguard",
+      "domain_strategy": "",
+      "tag": "🇮🇹 Aruba Cloud Services"
+    },
+    {
+      "local_address": [
+        "10.102.118.217/32"
+      ],
+      "mtu": 1408,
+      "peer_public_key": "Lhy/mof66nYRhnYSeTMQHzTkIMDMjVyudxkrZ3c7eDs=",
+      "pre_shared_key": "Z4f6J4i+zbOG3gmdjRg52ZHHuK1jIBEvi8POkJHP930=",
+      "private_key": "wP1tYhoSC+wYDWZrCC7/MYWb6XsQMNUxAqNqODQMck4=",
+      "server": "185.105.3.134",
+      "server_port": 15291,
+      "type": "wireguard",
+      "domain_strategy": "",
+      "tag": "🇱🇺 GCL"
+    },
+    {
+      "local_address": [
+        "10.103.137.175/32"
+      ],
+      "mtu": 1408,
+      "peer_public_key": "NGPQTmb5pGzV1SuFip8i8+/bSMDKusm938SsRlem+nE=",
+      "pre_shared_key": "jcpdoqeBfVE1GSjlCsOQ3o2l7IWADUGRmmZJ8tz+u1U=",
+      "private_key": "YGwAgrujRw8xNSzP8MJdUELJcvQKAj5gfLvb5y87O2g=",
+      "server": "45.67.229.191",
+      "server_port": 253,
+      "type": "wireguard",
+      "domain_strategy": "",
+      "tag": "🇲🇩 Stark Industries"
+    },
+    {
+      "local_address": [
+        "10.101.43.49/32"
+      ],
+      "mtu": 1408,
+      "peer_public_key": "nttGCRYLgtEeDaXDN4tVxFtQbsij1DRvRoamp/5igBo=",
+      "pre_shared_key": "syut2dccDjjkYxIPOqUC2T4B90SnugHT8pyNo8zG2KE=",
+      "private_key": "0ApRDeiluEQnShMuQOagUTqiUqoemDfpRqPmyZHdllI=",
+      "server": "91.225.217.28",
+      "server_port": 15283,
+      "type": "wireguard",
+      "domain_strategy": "",
+      "tag": "🇳🇴 Stark Industries"
+    },
+    {
       "tag": "direct",
       "type": "direct"
     },
